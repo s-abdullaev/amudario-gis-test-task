@@ -27,8 +27,8 @@ A typical user story: a user opens our map, clicks a field, and sees the latest 
 ## Deliverables (bare minimum)
 
 1. **Architecture diagram** — PNG / SVG / Excalidraw / draw.io / Miro link. Your choice of tool.
-2. **Written explanation** (2–3 paragraphs) of how you would implement this using **AI tools** — both AI coding tools and GeoAI tools. What would you hand to the AI? What would you keep human?
-3. **Pros / Cons** of your chosen architecture — a short bulleted list of each. We want honest trade-offs, not just upsides.
+2. **Mockup screens** of how the end user sees this system — hand-sketched wireframes on paper, an AI-generated mockup, or anything in between. We don't care about polish; we care about whether the screen tells a real user something useful.
+3. **Written explanation** (2–3 paragraphs) — focus on **what the end user can learn from this system** and **how it helps them make day-to-day decisions**. Tell the story from the user's seat, not from the engineer's.
 4. **Key metrics to monitor** — what you'd watch to know the pipeline is healthy.
 
 Open-ended — no single right answer. We want to see how you make decisions.
@@ -48,7 +48,7 @@ We'll discuss the deeper system-design questions with you in person during the i
 
 ## How to submit
 
-- Combine your diagram + writeup + pros/cons + metrics into a **single PDF or markdown document** (whichever you prefer).
+- Combine your diagram + mockup screens + writeup + metrics into a **single PDF or markdown document** (whichever you prefer).
 - Send it to **info@amudar.io** *or* Telegram **[@s_abdullaev_uk](https://t.me/s_abdullaev_uk)**.
 - Subject line: `GIS Engineer Test Task — [Your Name]`.
 - Please mention roughly **how many hours** you spent on it. No deadline pressure.
