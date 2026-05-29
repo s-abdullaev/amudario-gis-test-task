@@ -1,4 +1,4 @@
-# GIS Engineer (Geospatial + GeoAI) — Amudar.io
+# GIS Engineer (AI-Native, Geospatial + GeoAI) — Amudar.io
 
 > Tashkent · On-site · 5 days/week · Flexible hours · Negotiable salary
 
@@ -8,7 +8,7 @@ Three language versions follow: **[English](#english)** · **[Русский](#�
 
 ## English
 
-**GIS Engineer (Geospatial + GeoAI) — Amudar.io · Tashkent · On-site**
+**GIS Engineer (AI-Native, Geospatial + GeoAI) — Amudar.io · Tashkent · On-site**
 
 Amudar.io builds AI-powered IoT for smart agriculture — used by global organizations, banks, research institutions, and users across Uzbekistan. We're hiring a GIS engineer to build the geospatial backbone of our platform: turning satellite tiles, drone orthomosaics, and ground-station data into maps and reports.
 
@@ -40,7 +40,7 @@ Negotiable salary · On-site in Tashkent, 5 days/week, flexible hours · Real wo
 
 ## Русский
 
-**GIS-инженер (Geospatial + GeoAI) — Amudar.io · Ташкент · Офис**
+**GIS-инженер (AI-native, Geospatial + GeoAI) — Amudar.io · Ташкент · Офис**
 
 Amudar.io создаёт AI-IoT решения для умного сельского хозяйства. Среди партнёров — международные организации, банки, исследовательские институты и пользователи по всему Узбекистану. Ищем GIS-инженера, который построит геопространственный backbone нашей платформы: превратит спутниковые снимки, дрон-ортофотопланы и данные наземных станций в карты и отчёты.
 
@@ -72,7 +72,7 @@ Amudar.io создаёт AI-IoT решения для умного сельск�
 
 ## Oʻzbekcha
 
-**GIS muhandis (Geospatial + GeoAI) — Amudar.io · Toshkent · Ofisda**
+**GIS muhandis (AI-native, Geospatial + GeoAI) — Amudar.io · Toshkent · Ofisda**
 
 Amudar.io — aqlli qishloq xoʻjaligi uchun AI va IoT yechimlarini ishlab chiqaruvchi kompaniya. Hamkorlar orasida xalqaro tashkilotlar, banklar, ilmiy-tadqiqot institutlari va Oʻzbekiston boʻylab foydalanuvchilar bor. Platformamizning geofazoviy poydevorini quradigan GIS muhandis qidiryapmiz: sunʼiy yoʻldosh tasvirlari, dron orto-fotosuratlari va yerdagi stansiya maʼlumotlarini xarita va hisobotlarga aylantiradigan inson.
 
